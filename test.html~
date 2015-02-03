@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>Test</title>
-		<link rel="stylesheet" type="text/css" href="test.css" />
+		<link ref="stylesheet" type="text/css" href="test.css" />
 	</head>
 <body>
 	<h1>Git Test</h1>
